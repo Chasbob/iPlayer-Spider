@@ -1,4 +1,6 @@
-# iPlayer
+# iPlayer Spider
+
+A simple [Scrapy](https://scrapy.org/) spider for collecting episodes from bbc [iPlayer](https://bbc.co.uk/iplayer).
 
 
 ## Series spider
