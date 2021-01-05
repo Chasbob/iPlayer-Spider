@@ -3,8 +3,8 @@ from scrapy import Selector
 from scrapy.http import Response
 
 
-class QuotesSpider(scrapy.Spider):
-    name = "spooks"
+class ShowSpider(scrapy.Spider):
+    name = "shows"
 
     def start_requests(self):
         urls = [
