@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-Scrapy = "^2.4.1"
+Scrapy = "^2.6.0"
 
 [tool.poetry.dev-dependencies]
 jedi = "^0.18.0"
